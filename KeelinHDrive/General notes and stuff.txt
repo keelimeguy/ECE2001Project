@@ -1,0 +1,11 @@
+9V battery: 8.57V
+Output of op amp with "9V" battery to Vcc+: 6.32V Fuck - but it works YAY
+
+Va:5V
+Vb:9v
+
+phone output: ~.1V
+
+Range for photodiode ~.08V-.32V
+
+Gain: Vout=Vin*(1+R2/R1)
