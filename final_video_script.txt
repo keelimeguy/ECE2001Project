@@ -1,0 +1,68 @@
+
+
+Make a 5 minute video summarizing your whole project. Realize that this video is supposed to play the same role as a full-fledged project report. Therefore, include all the relevant project details like your design details (including your reasons for those design decisions), the procedure, working demo, any assumptions you made etc.
+
+
+
+Trivial ass bullshit basics to fill time:
+
+	Xplain op-amp
+		It is ampafi
+		Negative feedback lets you set the gain with resistors
+		instead of relying on the gain of the op-amp itself
+		(which may also be non-linear)
+	Xplain capacitat
+		It store jarge
+		iz redudes # changes in vultage
+		No, it blocks DC signals
+			(It's a high-pass filter. DC signal is the extreme case of a low frequency.)
+
+Design decisions
+
+Virtual ground (Using capacitors, because op-amps were not working)
+
+Amplifier (in both {summing circuit in transmitter} and {receiver}).
+
+Bias-T to combine DC and AC.
+
+Magnifying glass and photodiode to receive signal.
+
+Headphones instead of speakers for testing, because speaker was awful.
+
+
+
+Procedure
+
+To build circuit:
+	build it
+
+To use circuit:
+	Aim the laser (by setting it on a stack of papers, spare desk items, etc.)
+	
+	Once you're aiming in roughly the right place, do the rest of the adjustment on the receiving end
+	(with spare furniture, drawers, notebooks, etc.)
+	
+	Use paper or a hand to find the focal point of the lens and aim it a bit above the center of the photodiode.
+	
+	Yell into microphone.
+
+
+Working demo
+	This will be happening in the background.
+	Except with no proof that the sound is working.
+	But we do prove that the transmitter is working.
+
+	We should point out you can see the laser light modulating with the music.
+
+Assumptions
+	Sam tipped us off that the mic takes 1.5 volts, not 5 V (like you told us.)
+		We fed it 2.25 V anyway cause we're pros.
+
+	We assumed initially that the op-amps would work.
+		(Maybe we can point out the ones that don't work.)
+
+Musics we used:
+
+https://www.youtube.com/watch?v=PnSC0tRmya4
+
+Recording of Dusk in Sandi, track 12 or 13. 
